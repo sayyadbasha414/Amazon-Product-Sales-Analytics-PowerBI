@@ -140,6 +140,8 @@ Customer reviews strongly correlate with product popularity and sales performanc
 
 This dashboard helps e-commerce businesses:
 
+https://github.com/sayyadbasha414/Amazon-Product-Sales-Analytics-PowerBI/blob/main/Amazon%20Sales%20Dashbaord.png
+
 Monitor marketplace performance.
 Improve product portfolio decisions.
 Track customer engagement.
